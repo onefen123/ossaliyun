@@ -21,7 +21,7 @@ public class AliyunOSS {
     public static String upload(File file){
         String endpoint="oss-cn-shanghai.aliyuncs.com";
         String accessKeyId="LTAI1oTmemIhtUbm";
-        String accessKeySecret="MAacsDh0H89Xbww542uqxn7Yvnu1f9";
+        String accessKeySecret="";
         String bucketName="onefen";
 
 
